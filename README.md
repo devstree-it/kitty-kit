@@ -14,3 +14,4 @@ type: Contains all the action types used in the project
 # Data in the website
 
 All the code snippets are in lib/database
+# kitty-kit
